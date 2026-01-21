@@ -1,4 +1,4 @@
-<h1 aling="center"> Previsão do tempo</h1>
+<h1 aling="center"> Previsão do tempo ⛅</h1>
 <p aling="center"> Site para conferir previsão do tempo em certa cidade
 </p>
 
